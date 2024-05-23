@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/work_desk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Blog Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed and developed a dynamic blog website using MongoDB for efficient data management and storage.",
+    url: "https://github.com/ShahEmaad/Blog-Website",
   },
   {
-    title: "Web Development for Beginners",
+    title: "E-Commerce Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a user-friendly E-Commerce website featuring an intuitive interface and functionality using MERN Stack.",
+    url: "https://github.com/ShahEmaad/E_Commerce_2023",
   },
   {
-    title: "My Resume Site",
+    title: "Self-Driving-Car JS",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I developed a self-driving car simulation with a custom physics engine and tailored Reinforcement Learning algorithm, featuring simulated sensors and training for safe and efficient driving.",
+    url: "https://github.com/ShahEmaad/Self-Driving-Car-JS",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "CRUD Implimentation JWT/Firebase Auth",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a TODO list app with Node.js, Express.js, and MongoDB, featuring Firebase Authentication and a JWT authentication branch.",
+    url: "https://github.com/ShahEmaad/todo_backend_1",
   },
 ];
 
